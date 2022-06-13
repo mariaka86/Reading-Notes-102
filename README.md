@@ -12,4 +12,4 @@ definition of growth mindset- the ability to be flexible in your thinking.
 >
 >>Nested Blockquote
  markdown is a light weight markup language(GithHub uses this)
-  
+ [Class -01 Reading Assingnment](Class
