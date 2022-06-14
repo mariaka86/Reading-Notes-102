@@ -13,7 +13,8 @@
      ##3 things about me
     * I am a bibliophile 📖
     * I used to be in the healthcare industry
-    *favorite quote > "what is grief if not love everlasting"
-     
+    * I'm originally from the country of Kenya
+    
+   ![Kenyan flag]( https://cdn.britannica.com/15/15-004-B5D6BF80/Flag-Kenya.jpg)
  
 **my Github page** [GitHub Page](https://github.com/mariaka86).
