@@ -11,9 +11,9 @@
 
  markdown is a light weight markup language(GithHub uses this)
      **3 things about me**
-    * I am a bibliophile 📖
-    * I used to be in the healthcare industry
-    * I'm originally from the country of Kenya
+    1. I am a bibliophile 📖
+    2. I used to be in the healthcare industry
+    3. I'm originally from the country of Kenya
     
    ![Kenyan flag]( https://cdn.britannica.com/15/15-004-B5D6BF80/Flag-Kenya.jpg)
  
