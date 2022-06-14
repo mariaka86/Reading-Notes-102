@@ -1,7 +1,7 @@
 reading-notes--102
 #reading notes from 102
 ##definition of growth mindset- the ability to be flexible in your thinking.
-***3 growth mindset reminders: accept criticism, challenge yourself,recognize that work is needed regardless of talent
+***3 growth mindset reminders: accept criticism, challenge yourself,recognize that work is needed regardless of talent***
 #<H1>, ## <H2>
  H1, H2
  ==,--
@@ -12,4 +12,4 @@ reading-notes--102
 >
 >>Nested Blockquote
  markdown is a light weight markup language(GithHub uses this)
- [Class -01 Reading Assingnment](Class
+**my Github page** [GitHub Page](https://github.com/mariaka86/reading-notes-102/edit/main/README.md).
