@@ -5,9 +5,11 @@
 ## definition of growth mindset- the ability to be flexible in your thinking.
 
 **growth mindset reminders: 
--accept criticism 
--challenge yourself
--recognize that work is needed regardless of talent**
+-*accept criticism 
+
+-*challenge yourself
+
+-*recognize that work is needed regardless of talent**
 
 
      **3 things about me**
