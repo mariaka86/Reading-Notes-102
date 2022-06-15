@@ -33,3 +33,4 @@ all javascript variables must be indentified with unique names (identifiers)
 Javascript idenfiers are case-sensitive
 equal to operator is == in JS not =
 good programming practice requires you to declare all variables at the beginning of a script
+.
