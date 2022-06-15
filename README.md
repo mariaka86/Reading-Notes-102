@@ -1,18 +1,4 @@
-#reading-notes--102
-
-# reading notes from 102
-
-## definition of growth mindset- the ability to be flexible in your thinking.
-
-**growth mindset reminders: 
-* accept criticism 
-
-* challenge yourself
-
-* recognize that work is needed regardless of talent**
-
-
-     **3 things about me**
+  **3 things about me**
      
     1. I am a bibliophile 📖
     2. I used to be in the healthcare industry
@@ -24,3 +10,16 @@
 * use git status to check the 
 
 ***my Github page*** [GitHub Page](https://github.com/mariaka86).
+
+*Table of Contents*
+[Class -01 Reading Assignment](Reading-01.md)
+[Class -02 Reading Assignment](Reading-02.md)
+[Class -03 Reading Assignment](Reading-03.md)
+[Class -04 Reading Assignment](Reading-04.md)
+[Class -05 Reading Assignment](Reading-05.md)
+[Class -06 Reading Assignment](Reading-06.md)
+[Class -07 Reading Assignment](Reading-07.md)
+[Class -08 Reading Assignment](Reading-08.md)
+[Class -09 Reading Assignment](Reading-09.md)
+[Class -10 Reading Assignment](Reading-10.md)
+[Class -11 Reading Assignment](Reading-11.md)
