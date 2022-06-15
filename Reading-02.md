@@ -7,4 +7,5 @@
 - a variety of extensions( allows you to code more with minimal effort)
 ## Difference Between IDE and text editor
 * text editor* - edits text
+
 *IDE (Intergrated Development Environment)* - a suite of different kinds of software all together and IDE can be a text editor, file manager, compiler and debugger in one software package
