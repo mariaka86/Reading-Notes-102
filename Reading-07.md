@@ -53,9 +53,9 @@ number + string= string
 
 !==	not equal value or not equal type
 
->	greater than
+  >	greater than
 
-<	less than
+  <	less than
 
 >=	greater than or equal to
 
