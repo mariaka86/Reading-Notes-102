@@ -57,9 +57,9 @@ number + string= string
 
   <	less than
 
->=	greater than or equal to
+  >=	greater than or equal to
 
-<=	less than or equal to
+  <=	less than or equal to
 
 ?	ternary operator
 
