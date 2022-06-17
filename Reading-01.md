@@ -14,4 +14,5 @@ accept criticism
 challenge yourself
 
 recognize that work is needed regardless of talent*
-& dragonfly
+
+&dragonfly
