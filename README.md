@@ -7,7 +7,7 @@
    ![Kenyan flag](https://media.istockphoto.com/vectors/female-hand-gently-holds-small-kenya-flag-holiday-design-element-on-vector-id1284342309?k=20&m=1284342309&s=170667a&w=0&h=5LUIdfWStSMWnMt1Zwwvkly2jSYXeHKqQM1mTPHk7sM= )
  
 ## Reading 03 Notes
-* use git status to check the 
+
 
 ***my Github page*** [GitHub Page](https://github.com/mariaka86).
 
